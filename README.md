@@ -1,6 +1,4 @@
 # OPENCLASSROOMS : Démarrez votre projet avec Python 
-![Python3](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =50x50)
-
 
 ## À propos du cours
 
@@ -24,3 +22,7 @@ Pour le bon déroulement du cours, il faut installer Python 3 et un éditeur de 
 - [Lien du cours Openclassrooms](https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python)
 - [Le site de Python](https://www.python.org/)
 - [Le site de Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+![Python3](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
