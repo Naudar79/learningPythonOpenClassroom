@@ -25,5 +25,6 @@ Pour le bon déroulement du cours, il faut installer Python 3 et un éditeur de 
 
 ---
 
-![Python3](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-![Visual Studio Code](https://fr.wikipedia.org/wiki/Visual_Studio_Code#/media/Fichier:Visual_Studio_Code_1.35_icon.svg)
+![Python3](../assets/Python.svg)
+
+![VSC](../assets/VSC.png)
