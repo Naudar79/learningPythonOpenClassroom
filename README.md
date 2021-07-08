@@ -1,4 +1,5 @@
-# OPENCLASSROOMS : Démarrez votre projet avec Python
+# OPENCLASSROOMS : Démarrez votre projet avec Python ![Python3](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg =50x50)
+
 
 ## À propos du cours
 
