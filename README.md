@@ -25,6 +25,4 @@ Pour le bon déroulement du cours, il faut installer Python 3 et un éditeur de 
 
 ---
 
-![Python3](./assets/Python.png)
-
-![VSC](./assets/VSC.png)
+![Python3](./assets/Python.png) ![VSC](./assets/VSC.png)
